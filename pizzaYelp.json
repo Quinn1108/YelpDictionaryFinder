@@ -1,0 +1,12 @@
+{
+  "MyiqKhZd8N08q9qilxRcPQ": {"address": "20124 W Catawba", "categories": ["Food", "Bakeries", "Restaurants", "Pizza"], "city": "Cornelius", "name": "Our Daily Bread", "stars": 4.0, "review_count": 5, "state": "NC"},
+  "__sXvAzVGUsK6AyzT19v6g": {"address": "890 Butler St", "categories": ["Food", "Caterers", "Italian", "Event Planning & Services", "Pasta Shops", "Restaurants", "Specialty Food", "Pizza"], "city": "Pittsburgh", "name": "Pizza & Pasta Villa", "stars": 1.5, "review_count": 15, "state": "PA"},
+  "vc0v-vOIwWpa8eA9Fcc2zQ": {"address": "14845 Yonge Street", "categories": ["Pizza", "Restaurants"], "city": "Aurora", "name": "Pizza Nova", "stars": 3.5, "review_count": 4, "state": "ON"},
+  "VDcfkHSR_Asv3onUsfBTqA": {"address": "10339 Perry Hwy", "categories": ["Sandwiches", "Wraps", "Food", "Food Delivery Services", "Delis", "Pizza", "Restaurants"], "city": "Wexford", "name": "Freedom Pizza & Deli", "stars": 4.0, "review_count": 10, "state": "PA"},
+  "ESC1tS28OueKX5akvrM_Ww": {"address": "6428 Pearl Rd", "categories": ["Restaurants", "Italian", "Pizza", "Chicken Wings"], "city": "Parma Heights", "name": "Pizza Hut", "stars": 1.5, "review_count": 11, "state": "OH"},
+  "DQDeGKxYVOwwaqN6Jh2HZw": {"address": "4030 E Thunderbird Rd", "categories": ["Italian", "Restaurants", "Pizza"], "city": "Phoenix", "name": "Papa John's Pizza", "stars": 2.0, "review_count": 26, "state": "AZ"},
+  "aGA_iSHm9laGTrfPLJG1yw": {"address": "6821 W Peoria Ave", "categories": ["Chicken Wings", "Buffets", "Restaurants", "Pizza"], "city": "Peoria", "name": "Peter Piper Pizza", "stars": 2.5, "review_count": 39, "state": "AZ"},
+  "RZ1xA8iB9crWjv3fG0gMhg": {"address": "7610 Centrale Rue", "categories": ["Pizza", "Restaurants"], "city": "Lasalle", "name": "Restaurant Centrale Pizzeria", "stars": 4.0, "review_count": 8, "state": "QC"},
+  "wKQthQiyzj1vxwkpLNWzTA": {"address": "15557 West Bell Road", "categories": ["Restaurants", "Pizza"], "city": "Surprise", "name": "Papa Murphy's", "stars": 4.0, "review_count": 30, "state": "AZ"},
+  "kGVAle6VpDvZHlEeTB2WhA": {"address": "8480 S Las Vegas, Ste 110", "categories": ["Delis", "Restaurants", "Sandwiches", "Food", "Pizza"], "city": "Las Vegas", "name": "Deliria", "stars": 4.0, "review_count": 10, "state": "NV"}
+}
